@@ -1,0 +1,4 @@
+INDEX VERSION 1.129+C:\Users\TAMIR\Desktop\HIT\שנה ב'\סמסטר ג'\Java\JavaProject\Client_Side\.metadata\.plugins\org.eclipse.jdt.core
+384850701.index
+3358952393.index
+3180630959.index
