@@ -1,2 +1,9 @@
 # StoreOperatingSystem
-Java course final project - Store operating system including multy-threading, GUI, client / server & files.
+Java course's final project - Store operating system.
+
+including :
+* Multy-threading.
+* GUI.
+* Client / Server
+* Files database
+* Authentication
